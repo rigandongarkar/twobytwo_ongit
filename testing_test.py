@@ -2,6 +2,7 @@ class Test:
     pass
 
 class Test_two:
-    if 1=1:
-        pass
+    i = 1
+    if i ==1:
+        print("pass")
     
